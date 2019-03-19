@@ -5,7 +5,7 @@
 
 // remove printf debug statements at the end
 
-HashTable *hash_init (int N, int M)
+HashTable *hash_init (int N, int K)
 {
 	printf ("hash_init called\n"); 
 	return (NULL); 
